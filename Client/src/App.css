@@ -1,0 +1,14 @@
+
+.container{
+  width: 60%;
+  background-color: white;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  margin:  10px auto 10px auto !important ;
+  min-height: 100vh;
+
+}
+.ql-toolbar.ql-snow {
+  width: 100%;
+  display: flex;
+  justify-content: center ;
+}
